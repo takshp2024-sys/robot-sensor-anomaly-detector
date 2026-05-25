@@ -1,0 +1,17 @@
+{
+  "data_min": [
+    68.332,
+    -0.9969,
+    23.6489
+  ],
+  "data_max": [
+    84.0803,
+    2.76,
+    28.0025
+  ],
+  "feature_names": [
+    "temperature",
+    "vibration",
+    "voltage"
+  ]
+}
