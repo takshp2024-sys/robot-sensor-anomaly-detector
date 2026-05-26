@@ -9,7 +9,7 @@ Outperforms Isolation Forest baseline by 10 F1 points.
 | **LSTM Autoencoder** | 0.860 | 0.780 | **0.818** | 0.887 |
 | Isolation Forest | 0.734 | 0.703 | 0.718 | 0.813 |
 
-**Live API:** https://robot-sensor-anomaly-detector-2.onrender.com/docs
+**Live API:** [robot-sensor-anomaly-detector-2.onrender.com/docs](https://robot-sensor-anomaly-detector-2.onrender.com/docs)
 
 ---
 
