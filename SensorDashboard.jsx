@@ -21,7 +21,7 @@ import {
 
 // ── Config ────────────────────────────────────────────────────────────────────
 
-const BACKEND_URL   = "http://localhost:8000";
+const BACKEND_URL = "https://robot-sensor-anomaly-detector-2.onrender.com";
 const POLL_MS       = 2000;     // how often to poll /health + /history
 const MAX_CHART_PTS = 60;       // points kept in each sensor chart
 const SEQ_LEN       = 30;
