@@ -13,6 +13,8 @@ Outperforms Isolation Forest baseline by 10 F1 points.
 
 ---
 
+<img width="1472" height="1824" alt="image" src="https://github.com/user-attachments/assets/7b54f9df-90e7-486b-8edc-bb876535c0dc" />
+
 ## Architecture
 
 ```
